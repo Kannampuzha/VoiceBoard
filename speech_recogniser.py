@@ -2,7 +2,7 @@ import speech_recognition as sr
 
 def audio_to_text():#converts a recording into text
     r=sr.Recognizer()
-    source_audio= sr.WavFile('temporary/speech.wav')
+    source_audio= sr.WavFile('speech.wav')
     with source_audio as source1:
         audio=r.record(source1)
         try:
