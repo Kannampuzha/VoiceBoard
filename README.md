@@ -7,7 +7,7 @@ Features :
 2. Speech Recognition and inserting the text into the canvas.
 
 How to use the Speech Recognition:
-[The speech recognition systen needs an active internet connection to run]
+The speech recognition systen needs an active internet connection to run
 First click on the 'listen' button , then click anywhere on the canvas
 Now the button shows 'listening' . Until and unless the button appears so , it means that it is listening
 You can speack into the mic whenever you want , the recorder detectcs silence automatically
