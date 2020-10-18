@@ -24,6 +24,7 @@ One Important Note :
 Please feel free to reprot bugs , compability issues etc.
 More updates are expected
 
+Also note that it requires pyaudio and pyscreenshort. Installing pyaudio requires installation of portaudio
 
 Tested on :
 Ubuntu 20.04
