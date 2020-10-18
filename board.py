@@ -96,7 +96,7 @@ class main:
         self.canvas.bind("<Button-1>", self.set_cursor)
         self.recognise_button['text']='Listening..'#Change the name to 'listening'
         self.recognise_button['state']='disabled'
-        p1 = multiprocessing.Process(target=record_to_file, args=('temporary/speech.wav', ))
+        p1 = multiprocessing.Process(target=record_to_file, args=('speech.wav', ))
         p1.start()
         while True :
             if p1.is_alive() == False:
