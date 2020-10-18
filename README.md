@@ -6,7 +6,8 @@ Features :
 1. Save the canvas as pdf files or postscrip files
 2. Speech Recognition and inserting the text into the canvas.
 
-How to use the Speech Recognition:
+How to use the Speech Recognition
+
 The speech recognition systen needs an active internet connection to run
 First click on the 'listen' button , then click anywhere on the canvas
 Now the button shows 'listening' . Until and unless the button appears so , it means that it is listening
