@@ -3,6 +3,8 @@ A Canvas application that can recognise speech
 
 This is an application that has all the features that a whiteborad needs.
 
+![Screenshot](https://raw.githubusercontent.com/Kannampuzha/VoiceBoard/main/Screenshot2.png)
+
 ## Features :
 1. Save the canvas as pdf files or postscrip files.
 2. Speech Recognition and inserting the text into the canvas.
