@@ -18,7 +18,7 @@ This is an application that has all the features that a whiteborad needs.
 <li>When the recorder detetcs silence , it send the text for recognition , and prints the text where clicked.</li>
 <li>This printed text is editable by clicking on it (It cannot yet be edited by voice,but by keyboard).</li>
 <li>If the sent voice is unrecognised , it prints an 'E' onto the canvas(This E can also be deleted with a simple backspace).</li>
-</ul>
+</ol>
 One Important Note :
  If you see that even after finishing speech , the button stays on 'Listening' , tap the microphone with your hand(Such that it makes some noice) or clap,
  The mic detects this and the button renders to normal(After a few seconds).
